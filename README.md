@@ -36,7 +36,7 @@ Proyect Write a Data Science Blog Post
 Since 2008, Airbnb is a business of guests and hosts, providing the opportunity to stay in a more exclusive and highly personalized way and has had a great boom worldwide, even more so with the growing trend of digital nomads and the new generations that do not they are interested in putting down roots in a place, thus preferring to rent a lodging that is cozy (feel at home) while they enjoy the experiences of new places.
 
 
-You can read my blog here
+You can read my blog here: https://psalazarss.wixsite.com/my-site
 
 
 <a name="section1"></a>
